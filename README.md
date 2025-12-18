@@ -1,4 +1,4 @@
-## Kishan Ganguly
+## Kishan Kumar Ganguly
 
 🎓 PhD Student, Computer Science — **NC State University**  
 🧑‍🏫 Supervised by **Dr. Tim Menzies**
