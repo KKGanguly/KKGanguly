@@ -1,46 +1,33 @@
-<h2 align="center">Kishan Ganguly</h2>
+## Kishan Ganguly
 
-<p align="center">
-  <b>Software Systems · Machine Learning · Reliability</b><br/>
-  PhD @ NC State
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Systems-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ML4SE-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Fuzzing-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Optimization-black?style=flat-square"/>
-</p>
+**Software Systems × Machine Learning × Reliability**  
+PhD @ NC State
 
 ---
 
-### ⚙️ What I do
-I work close to **real software failures** — fuzzers, analyzers, optimizers —  
-and use **machine learning and data** to understand *why systems break*.
+🔍 I work close to **real software failures** — fuzzers, analyzers, optimizers —  
+and use **data and ML** to understand *why systems break* and *how to fix them*.
+
+My interests cut across **testing, security, program analysis, and optimization**,  
+with a bias toward methods that are **simple, explainable, and effective under real constraints**.
 
 ---
 
-### 🧠 How I think
-• complexity hides bugs  
+### Focus
+🧪 data-centric testing & fuzzing  
+⚙️ program analysis at scale  
+📉 sample-efficient optimization  
+🔐 security & reliability
+
+---
+
+### How I think
+• noisy systems are the norm  
 • labels are expensive  
-• simple methods scale
+• simple ideas scale better
 
 ---
 
-### 🧪 Current focus
-▸ data-centric testing & fuzzing  
-▸ program analysis at scale  
-▸ sample-efficient optimization  
-▸ security & reliability
-
----
-
-### 🛠️ Tools I’m fluent in
+### Tools
 `C/C++` `Java` `Python` `JavaScript` `Bash`  
-systems · ML · fuzzers · large codebases
-
----
-
-<p align="center">
-  former faculty · builder mindset · research with teeth
-</p>
+ML · optimization · fuzzers · large codebases
